@@ -1,0 +1,28 @@
+Psuedocode
+
+1. Create a blackjack game for 2 people to play.
+	a. The first player can enter their name
+	b. The second player can enter their name
+
+2. Each player will be dealt a hand of 2 random cards
+
+- add and display house hand
+- add and display player hand
+- if house hand < 17, deal another card
+- if house hand > 21, house bust
+- option for player to decide if they’d like another card
+- if player hand > 21, player bust, game end
+
+
+
+
+3. Each player can select if they would like to receive an additional card.
+
+4. Repeat until each player either declines another card or goes bust
+
+5. Display each player’s cards and assign a winner
+
+6. Give winning player 1 point, 2 points if achieve blackjack
+
+7. Ask if they would like to deal again
+
