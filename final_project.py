@@ -130,7 +130,7 @@ def continue_dealer_hand(ptotal):
 		else:
 			if dealer_hand_total == 0:
 				dealer_hand_total = card_add1(dealer)
-			print "\nTotal: ", dealer_hand_total
+			print "\nStand Total: ", dealer_hand_total
 			time.sleep(1)
 			break
 	return dealer_hand_total
